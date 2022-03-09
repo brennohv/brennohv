@@ -1,4 +1,4 @@
-- 👋 Olá, sou Brenno Henrique Vicentini de Abreu , tenho 26 anos e me mudei para Portugal em 20/10/2020. Sou muito dedicado e produtivo. Coloco metas e me programo em tudo que faço.
+- 👋 Olá, sou Brenno Henrique Vicentini de Abreu , tenho 27 anos e me mudei para Portugal em 20/10/2020. Sou muito dedicado e produtivo. Coloco metas e me programo em tudo que faço.
 - 👀 Estou interessado em fazer diferença na vida das pessoas e empresas, com isso, vi uma grande oportunidade na tecnologia, trazendo inovação e simplicidade.
 - 🌱 Atualmente estou aprendendo React e NextJS https://www.udemy.com/course/react-avancado/
 - 💞️ Procuro colaborar no Front-End, pois é aonde mais me identifiquei.
